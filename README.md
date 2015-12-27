@@ -1,4 +1,4 @@
 # Facemash
 Facemash Test
 
-Desarrollado en PHP , JS - JQUERY , AJAX , utilizando el framework Materialize (http://materializecss.com/)
+Desarrollado en PHP , JS - JQUERY , AJAX , utilizando el framework web front-end Materialize (http://materializecss.com/)
