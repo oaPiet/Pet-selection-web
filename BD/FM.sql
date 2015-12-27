@@ -1,0 +1,10 @@
+CREATE TABLE imagen (
+id INT(7) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+link VARCHAR(30) NOT NULL,
+vote INT(7),
+posicion INT(7) NOT NULL) ENGINE MyISAM;
+
+
+INSERT INTO imagen VALUES ('','1.jpg',0,0);
+INSERT INTO imagen VALUES ('','2.jpg',0,0);
+INSERT INTO imagen VALUES ('','3.jpg',0,0);
