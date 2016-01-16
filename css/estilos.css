@@ -1,0 +1,38 @@
+﻿ @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300italic,400italic,700italic);.materialize-red.lighten-5{background-color:#fdeaeb !important;}
+
+.ejecuta{position:relative;}
+.ejecuta .persona .per1{background:transparent;}
+.ejecuta .persona .per1:hover{transition:box-shadow 0.3s;box-shadow:0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+@media only screen and (min-width:993px){.ejecuta .persona .per1{margin-top:1.5em;width:7em;height:8em;margin-left:5em;font-size:2em;}
+}
+@media only screen and (max-width:992px){.ejecuta .persona .per1{width:70%;margin-left:5.3em;margin-top:3em;height:18em;}
+}
+@media only screen and (max-width:600px){.ejecuta .persona .per1{width:47%;height:25%;margin-top:.45em;margin-left:5.6em;}
+}
+.ejecuta .persona .per2{background:transparent;}
+.ejecuta .persona .per2:hover{transition:box-shadow 0.3s;box-shadow:0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+@media only screen and (min-width:993px){.ejecuta .persona .per2{margin-top:1.5em;width:7em;height:8em;margin-left:.8em;font-size:2em;}
+#logo {margin-left:.3em;}
+#logo1 {margin-left:.3em;}
+}
+@media only screen and (max-width:992px){.ejecuta .persona .per2{width:70%;margin-left:9.8em;margin-top:3em;height:18em;}
+}
+@media only screen and (max-width:600px){.ejecuta .persona .per2{width:47%;height:25%;margin-top:1.45em;margin-left:5.6em;}
+}
+#enc{font-family:'Roboto Condensed', sans-serif;text-transform:uppercase;line-height:.2;opacity:.9;}
+#or{font-weight:600;font-size:2.5em;margin-top:3em;opacity:.9;}
+@media only screen and (max-width:992px){#or{margin-left:3em;margin-top:8em;}
+#logo {margin-left:.3em;}
+}
+@media only screen and (max-width:600px){#or{margin-top:.85em;margin-right:3.1em;}
+}
+#modal{top:6em;left:39.7em;}
+@media only screen and (max-width:992px){#modal{top:.2em;left:27.5em;}
+}
+.modal-content{text-transform:uppercase;}
+@media only screen and (max-width:600px){
+.container{max-width:20em;}
+footer {display:none;}
+#logo {margin-left:0em;} 
+#logo1 {margin-left:0em;}
+}
